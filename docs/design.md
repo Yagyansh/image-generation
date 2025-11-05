@@ -1,4 +1,4 @@
-# System Design — Chronicle Image Generation API
+# System Design — Image Generation API
 ---
 
 ## 1. Problem Statement
